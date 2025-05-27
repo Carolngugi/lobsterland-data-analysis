@@ -4,7 +4,6 @@ This project uses survey and performance data to uncover key insights into what 
 
 ##  Files
 - `Ass1_Ngugi.ipynb`: Jupyter notebook containing all preprocessing, modeling, and analysis.
-- `Ass1_Ngugi.pdf`: PDF version of the notebook.
 - `Ass1Part3_Ngugi.pdf`: Tableau dashboard write-up and insights.
 - Tableau Dashboard: [View Here](https://public.tableau.com/app/profile/caroline.ngugi/viz/Ass1_Ngugi/Dashboard1?publish=yes)
 
